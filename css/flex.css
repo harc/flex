@@ -357,8 +357,9 @@ video.light-bg-protect {
   display: inline-block;
   font-family: -apple-system, BlinkMacSystemFont, "San Francisco", Roboto, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 12px;
+  line-height: 18px;
   margin-right: 4px;
-  padding: 0 6px;
+  padding: 0 4px;
 }
 
 /* ==========================================================================
